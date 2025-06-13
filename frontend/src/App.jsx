@@ -23,7 +23,7 @@ function App() {
           bgGradient={"linear(to-r, cyan.400, blue.500)"}
           bgClip={"text"}
           >
-            My Besties    
+            Our Team    
           </Text>
           🚀
         </Text>
